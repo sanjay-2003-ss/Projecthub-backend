@@ -20,8 +20,3 @@ Backend API for the ProjectHub platform. This service handles user authenticatio
 - **dotenv for environment handling**
 - **Nodemon for development**
 
-
-## Getting Started
-### 1. Clone the reposit
-git clone https://github.com/sanjay-2003-ss/Projecthub-backend.git
-cd Projecthub-backend
